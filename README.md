@@ -25,6 +25,11 @@
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak503&count_private=true&theme=cobalt)](#)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak503&theme=dark" alt="singhsduos" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak503&show_icons=true&locale=en&theme=dark" alt="sarthak503" />
+
+
+
 
 <!--
 **sarthak503/sarthak503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
