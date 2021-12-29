@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning JavaScript & ReactJS
 ### 📫 Reach me @sarthak.kmr503@gmail.com
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak503&label=Profile%20views&color=0e75b6&style=flat" alt="sartak" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthak-kumar503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lk" height="30" width="40" /></a>
