@@ -1,7 +1,7 @@
 # Hi, This is Sarthak 👋
 ### 🔭 My aim is to become a MERN Stack Web Developer
 
-### 🌱 I’m currently learning JavaScript & ReactJS
+### 🌱 I’m currently learning NodeJs, ExpressJs and MongoDB.
 ### 📫 Reach me @sarthak.kmr503@gmail.com
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak503&label=Profile%20views&color=0e75b6&style=flat" alt="sartak" /> </p>
 <h3 align="left">Connect with me:</h3>
